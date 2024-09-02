@@ -25,10 +25,3 @@
 ### Tools & IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📈📊 Statistics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DraftraX&theme=rose_pine&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DraftraX&bg_color=00000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DraftraX&style=flat-square&label=Views)
-![GitHub Visits](https://badges.pufler.dev/visits/DraftraX/DraftraX?color=black&logo=github&style=flat-square)
