@@ -11,6 +11,7 @@ I'm a **Systems Engineering and Computer Science** student at the **National Uni
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
     <img src="https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -46,8 +47,4 @@ I'm passionate about software development and always eager to learn new technolo
 
 ## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn](#) or check out my projects on [GitHub](#).
-
----
-
-![Banner](https://via.placeholder.com/800x200/0078D6/FFFFFF?text=Welcome+to+My+Profile)
+Feel free to connect with me on [X](https://x.com/DraftraX) or check out my projects on [GitHub](https://github.com/DraftraX).
